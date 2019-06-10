@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: qa
+
+
+my:
+    message: from Default Message yml
+    code: from Default Code
+    mode: from Default Mode
